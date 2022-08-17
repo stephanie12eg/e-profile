@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+## Stephanie Estrada Garcia 
+Creating an e-profile that would help with networking and communicating with potential employers. 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
